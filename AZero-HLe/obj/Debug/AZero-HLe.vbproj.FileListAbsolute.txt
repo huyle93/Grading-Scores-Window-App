@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\bin\Debug\AZero-HLe.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\obj\Debug\AZero_HLe.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\obj\Debug\AZero_HLe.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\obj\Debug\AZero-HLe.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\bin\Debug\AZero-HLe.exe
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\bin\Debug\AZero-HLe.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\bin\Debug\AZero-HLe.xml
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\obj\Debug\AZero_HLe.frmSecond.resources
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\obj\Debug\AZero-HLe.exe
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\obj\Debug\AZero-HLe.xml
+c:\users\administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\obj\Debug\AZero-HLe.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\AZero-HLe\AZero-HLe\obj\Debug\AZero-HLe.vbprojResolveAssemblyReference.cache
